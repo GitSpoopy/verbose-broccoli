@@ -1,2 +1,1 @@
-# verbose-broccoli
-Cybersecurity Scrips 
+# Ansible/ Azur server
